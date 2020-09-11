@@ -1,0 +1,11 @@
+all examples/1/1.png
+head examples/1/2.png
+hat examples/1/2.png
+lleg examples/1/3.png
+lleg2 examples/1/3.png
+rleg examples/1/3.png
+rleg2 examples/1/3.png
+larm examples/1/4.png
+larm2 examples/1/4.png
+rarm examples/1/4.png
+rarm2 examples/1/4.png
